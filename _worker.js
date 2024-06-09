@@ -864,5 +864,5 @@ function createVLESSSub(userID_Path, hostName) {
 }
 
 const cn_hostnames = [
-	'bing.com'
+	'dns.ton.org'
 ];
